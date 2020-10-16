@@ -1,1 +1,7 @@
 Sync
+Syncing data to server [OPTIONAL]
+Create MYSQL database with tables to store readings and list of access points. Please refer this file for necessary schema details
+Setup a php server with backend code included in this project and host it on your own server. It uses Slim framework.
+Change the BASE_URL in android code to your server url in Config.java file
+Run app to your Android device from Android Studio
+Use the 'Sync' button in the first screen to load the buildings from the server. The readings taken from other devices are also displayed.
