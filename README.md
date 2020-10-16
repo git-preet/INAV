@@ -48,4 +48,4 @@ A MVP android application which is able to estimate the position of a user withi
 
 [PREET](https://github.com/git-preet) . Feel free to contact us in case of any issue while setting up/testing.
 We are looking for more developers and will fill great to collab 
-just give us dm on insta for further info.
+just give us dm on insta for further info..
